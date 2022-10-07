@@ -12,5 +12,5 @@ This library uses Google Test for unit testing.
 
 ## Commit Messages
 
-For commit messages, use the format outlined in (Conventional Commits)[https://www.conventionalcommits.org/en/v1.0.0/].
+For commit messages, use the format outlined in [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
